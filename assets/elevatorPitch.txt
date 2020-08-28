@@ -1,0 +1,1 @@
+A full-stack data scientist with experience in payments and transactions data, healthcare data, and fraud detection. I use Python, SQL, Go, and Dart to solve problems and create value from data and analytics. I have lead teams and completed projects in machine learning, web development, API development, and backend development.
